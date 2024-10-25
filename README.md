@@ -1,2 +1,2 @@
 # vapour
-Redis like caching tool with specific language
+AI module for scala projects with specific language
