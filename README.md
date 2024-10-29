@@ -1,2 +1,2 @@
 # vapour
-AI module for scala projects with specific language
+Dsl based cloud deployment and provisioning tool
